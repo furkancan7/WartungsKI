@@ -5,14 +5,14 @@ WartungsKI ist ein integriertes System zur Vorhersage von Maschinenausfällen (P
 
 ---
 
-## 📊 Datensätze & Ressourcen
+## Datensätze & Ressourcen
 Aufgrund der Dateigrößenbeschränkungen von GitHub sind die Rohdaten extern gespeichert:
 * **Externer Speicher:** Google Drive
 * **Link:** [Zum Datensatz-Ordner](https://drive.google.com/drive/folders/1MTvfTTlmT50STuFRAzwW-UDQxF5nvlgA?usp=sharing)
 
 ---
 
-## 🏗 Systemarchitektur
+## Systemarchitektur
 Das Projekt besteht aus zwei Hauptkomponenten:
 
 1. **Frontend & Backend (Java Spring Boot):** Verwaltung der Benutzeroberfläche, Formularverarbeitung und Kommunikation mit dem API-Service.
@@ -20,7 +20,7 @@ Das Projekt besteht aus zwei Hauptkomponenten:
 
 ---
 
-## ⚙️ Installation und Ausführung
+## Installation und Ausführung
 Um das System lokal zu starten, müssen beide Dienste gleichzeitig ausgeführt werden.
 
 ### 1. Python API-Service starten
